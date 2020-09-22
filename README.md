@@ -1,2 +1,1 @@
-# dojo-kotlin
-Created with CodeSandbox
+# Kotlin-workshop
